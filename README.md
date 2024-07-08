@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RajeshPhayde
 - 👀 I’m interested in MERN stack development
 - 🌱 I’m currently learning Redux
-- 💞️ I’m looking for job as frontend/backend development
 - 📫 How to reach me? rajeshphayde97@gmail.com
 
 <!---
